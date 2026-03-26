@@ -1,0 +1,4 @@
+0 plastik
+1 papier
+2 szkło
+3 bio
